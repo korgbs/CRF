@@ -1,4 +1,4 @@
-## CRF 입력을 위한 페이지에 오신 것을 환영합니다.  
+## CRF 입력을 위한 페이지  
 
 [기본 사항(성, 연령, 진단 등)](https://airtable.com/shrlrkom07zUcJrzi)  
 
