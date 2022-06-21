@@ -1,8 +1,12 @@
 ## CRF 입력을 위한 페이지  
 
+[사전 설문](https://airtable.com/shrtlbJf9S5drOfHt)
+
 [기본 사항(성, 연령, 진단 등)](https://airtable.com/shrlrkom07zUcJrzi)  
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-](https://kogbs.github.io/GBS-CRF/)
+CRF 입력에 어려움이 있으신가요? 그렇다면 다음 [문서](https://docs.github.com/categories/github-pages-basics/)를 참조하시거나, 아래 이메일로 연락해주세요. 
+
+e-mail: ... 
+
