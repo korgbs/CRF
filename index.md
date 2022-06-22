@@ -22,7 +22,7 @@
 [사전 설문](https://airtable.com/shrtlbJf9S5drOfHt) 
 
 [기본 사항(성, 연령, 진단, 아형 등)](https://airtable.com/shrlrkom07zUcJrzi)  
-[병력(선행 감염, 백신접종, 기간, 장애, 치료 등] 
+[병력(선행 감염, 백신접종, 기간, 장애, 치료 등]    
 [경과(단기, 장기 결과 등)] 
 
 ## 참고문헌 
