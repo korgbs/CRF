@@ -12,8 +12,8 @@
 
 ## 진단 및 아형 분류  
 - GBS 의 진단은 [Brighton criteria](md/brighton_criteria)에 따라 level of diagnostic certainty를 정함. <sup>1</sup> 
-- GBS 와 MFS 의 아형은 [다음 기준](md/subtype_class)을 따름.<sup>2</sup>   
-- GBS 의 전기생리학적 분류는 [Uncini et al, 2017](md/edx_class)의 기준을 따름.<sup>3</sup> 
+- GBS 와 MFS 의 아형은 [다음 기준](md/subtype_class)을 따름. <sup>2</sup>   
+- GBS 의 전기생리학적 분류는 [Uncini et al, 2017](md/edx_class)의 기준을 따름. <sup>3</sup> 
 
 ## CRF 입력 폼 링크   
 
