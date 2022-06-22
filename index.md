@@ -11,9 +11,9 @@
 - COVID-19 백신 접종과 상관없이 모든 환자를 등록함(consecutive patients) 
 
 ## 진단 및 아형 분류  
-- GBS 의 진단은 [Brighton criteria](md/brighton_criteria)에 따라 level of diagnostic certainty를 정함.^1)^ 
-- GBS 와 MFS 의 아형은 [다음 기준](md/subtype_class)을 따름.^2)^  
-- GBS 의 전기생리학적 분류는 [Uncini et al, 2017](md/edx_class)의 기준을 따름.^3)^ 
+- GBS 의 진단은 [Brighton criteria](md/brighton_criteria)에 따라 level of diagnostic certainty를 정함.^ 1) ^ 
+- GBS 와 MFS 의 아형은 [다음 기준](md/subtype_class)을 따름.^ 2) ^  
+- GBS 의 전기생리학적 분류는 [Uncini et al, 2017](md/edx_class)의 기준을 따름.^ 3) ^ 
 
 ## CRF 입력 폼 링크   
 
