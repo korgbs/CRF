@@ -11,9 +11,9 @@
 - COVID-19 백신 접종과 상관없이 모든 환자를 등록함(consecutive patients) 
 
 ## 진단 및 아형 분류  
-- GBS 의 진단은 [Brighton criteria](md/brighton_criteria)에 따라 level of diagnostic certainty를 정함. <sup>1</sup> 
-- GBS 와 MFS 의 아형은 [다음 기준](md/subtype_class)을 따름. <sup>2</sup>   
-- GBS 의 전기생리학적 분류는 [Uncini et al, 2017](md/edx_class)의 기준을 따름. <sup>3</sup> 
+- GBS 의 진단은 [Brighton criteria](brighton_criteria.jpg)에 따라 level of diagnostic certainty를 정함. <sup>1</sup> 
+- GBS 와 MFS 의 아형은 [다음 기준](subtype_class.jpg)을 따름(좀 더 자세한 기준은 [다음](subtype_class_detail.jpg)을 참조). <sup>2</sup>   
+- GBS 의 전기생리학적 분류는 [Uncini et al, 2017](edx_class.jpg)의 기준을 따름. <sup>3</sup> 
 
 ## CRF 입력 폼 링크   
 
@@ -27,12 +27,16 @@
 
 ## Support or Contact
 
-CRF 입력에 어려움이 있으신가요? 그렇다면 다음 [문서]를 참조하시거나, 아래 이메일로 연락해주세요. 
+CRF 입력에 어려움이 있으신가요? 그렇다면 다음 [문서 - 준비중]를 참조하시거나, 아래 이메일로 연락해주세요.   
 
-e-mail: ... 
+e-mail: junenr@gmail.com (이대서울병원 김지은 교수)   
 
 ## 참고문헌 
-1. 
-2.  
+1. Fokke C, van den Berg B, Drenthen J, Walgaard C, van Doorn PA, Jacobs BC. Diagnosis of Guillain-Barré syndrome and validation of Brighton criteria. Brain. 2014 Jan;137(Pt 1):33-43. 
+2. Wakerley BR, Uncini A, Yuki N; GBS Classification Group; GBS Classification Group. Guillain-Barré and Miller Fisher syndromes--new diagnostic classification. Nat Rev Neurol. 2014 Sep;10(9):537-44. 
+3. Uncini A, Ippoliti L, Shahrizaila N, Sekiguchi Y, Kuwabara S. Optimizing the electrodiagnostic accuracy in Guillain-Barré syndrome subtypes: Criteria sets and sparse linear discriminant analysis. Clin Neurophysiol. 2017 Jul;128(7):1176-1183. 
+
+
+
 
 
