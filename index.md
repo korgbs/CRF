@@ -18,15 +18,16 @@
 
 [CRF](https://airtable.com/shrlrkom07zUcJrzi)  
 
+## IRB 제출 관련 문서  
+
+IRB 제출 관련 문서는 아래 링크에서 다운로드 받으실 수 있습니다.    
+[연구계획서 등](https://github.com/korgbs/CRF/tree/gh-pages/IRB)       
+
 ## Support or Contact
 
 CRF 입력에 어려움이 있으신가요? 그렇다면 다음 [문서 - 준비중]를 참조하시거나, 아래 이메일로 연락해주세요.   
 
 e-mail: junenr@gmail.com (이대서울병원 김지은 교수)   
-
-## IRB 
-
-[연구계획서_v5.1](/IRB/연구계획서_V5.1.docx)      
 
 ## 참고문헌 
 1. Fokke C, van den Berg B, Drenthen J, Walgaard C, van Doorn PA, Jacobs BC. Diagnosis of Guillain-Barré syndrome and validation of Brighton criteria. Brain. 2014 Jan;137(Pt 1):33-43. 
