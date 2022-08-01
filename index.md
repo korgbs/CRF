@@ -2,7 +2,7 @@
 기관별 IRB 승인 -> 환자 리스트 확보 -> 데이터 입력   
 
 **중요**  
-```연구자별로 환자 일련번호(pt_id)를 순서대로 부여하고(1,2,3...), 병록번호/이름과 매핑되도록 파일로 관리해야 함```   
+```연구자별로 환자 등록 일련번호를 순서대로 부여하고(e.g. 1,2,3,...), 병록번호/이름과 연결할 수 있도록 각자 ID 매핑 파일을 별도로 작성해서 관리해야 함```   
 
 ## Inclusion 기준 
 - 2020년2월부터 2022년2월까지(2년간) GBS, MFS, PTS (Parsonage-Turner syndrome)으로 진단받은 환자  
@@ -23,6 +23,8 @@
 CRF 입력에 어려움이 있으신가요? 그렇다면 다음 [문서 - 준비중]를 참조하시거나, 아래 이메일로 연락해주세요.   
 
 e-mail: junenr@gmail.com (이대서울병원 김지은 교수)   
+
+## IRB 
 
 ## 참고문헌 
 1. Fokke C, van den Berg B, Drenthen J, Walgaard C, van Doorn PA, Jacobs BC. Diagnosis of Guillain-Barré syndrome and validation of Brighton criteria. Brain. 2014 Jan;137(Pt 1):33-43. 
