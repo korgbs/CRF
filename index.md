@@ -26,6 +26,8 @@ e-mail: junenr@gmail.com (이대서울병원 김지은 교수)
 
 ## IRB 
 
+[연구계획서_v5.1](/IRB/연구계획서_V5.1.docx)      
+
 ## 참고문헌 
 1. Fokke C, van den Berg B, Drenthen J, Walgaard C, van Doorn PA, Jacobs BC. Diagnosis of Guillain-Barré syndrome and validation of Brighton criteria. Brain. 2014 Jan;137(Pt 1):33-43. 
 2. Wakerley BR, Uncini A, Yuki N; GBS Classification Group; GBS Classification Group. Guillain-Barré and Miller Fisher syndromes--new diagnostic classification. Nat Rev Neurol. 2014 Sep;10(9):537-44. 
