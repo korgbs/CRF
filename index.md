@@ -16,11 +16,7 @@
 
 *아래 링크를 새탭이나 새창에서 열어서 작성해주세요*  
 
-[CRF1: 기본 사항(성, 연령, 진단, 아형, COVID-19 감염/백신접종 연관성 등)](https://airtable.com/shrlrkom07zUcJrzi)  
-
-[CRF2: 병력(선행 감염, 백신접종, 증상, 장애, 치료 등)]    
-
-[CRF3: 경과(단기, 장기 결과 등)] 
+[CRF](https://airtable.com/shrlrkom07zUcJrzi)  
 
 ## Support or Contact
 
