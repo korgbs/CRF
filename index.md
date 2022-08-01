@@ -20,7 +20,8 @@
 
 ## IRB 제출 관련 문서  
 
-IRB 제출 관련 문서는 아래 링크에서 다운로드 받으실 수 있습니다.    
+IRB 제출 관련 문서는 아래 링크에서 다운로드 받으실 수 있습니다.     
+
 [연구계획서 등](https://github.com/korgbs/CRF/tree/gh-pages/IRB)       
 
 ## Support or Contact
